@@ -25,7 +25,7 @@ The system combines semantic retrieval, keyword retrieval, conversational memory
 
 # System Architecture
 
-![Architecture Diagram](gitpic-ai.jpeg)
+![Architecture Diagram](architecture.jpeg)
 
 ---
 
